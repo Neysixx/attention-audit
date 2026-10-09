@@ -4,7 +4,7 @@ How many times a day do you actually switch apps on your computer? Run this for 
 
 Supports **macOS** and **Linux** (GNOME Wayland, X11, Sway, Hyprland).
 
-![example card](docs/example-card.png)
+![example card](docs/attention-card.png)
 
 ## Install
 
