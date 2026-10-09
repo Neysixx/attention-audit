@@ -1,0 +1,7 @@
+{
+  "uuid": "nudge-focus@kodylabs",
+  "name": "Nudge focus probe",
+  "description": "Exposes the focused window's app over D-Bus so focus_log.sh can sample it on Wayland.",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version": 1
+}

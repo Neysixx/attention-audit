@@ -1,0 +1,7 @@
+data/*.csv
+data/.card_*
+data/.waitlist_asked
+card.png
+audit.log
+.DS_Store
+node_modules/

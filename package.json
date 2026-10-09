@@ -1,0 +1,9 @@
+{
+  "name": "attention-audit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cross-platform attention audit logger & card generator",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.10"
+  }
+}
